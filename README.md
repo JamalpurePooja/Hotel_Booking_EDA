@@ -12,34 +12,65 @@ To achieve greater understanding and business goals, many charts are utilized fo
 
 The columns and the data it represents are listed below:
 hotel: Name of the hotel (Resort Hotel or City Hotel)
+
 is canceled: If the booking was canceled (1) or not (0)
+
 lead time: Number of days before the actual arrival of the guests
+
 arrival date year: Year of arrival date
+
 arrival date month: Month of month arrival date
+
 arrival date_week number: Week number of year for arrival date
+
 arrival date day_of_month: Day of arrival date
+
 stays in weekend_nights: Number of weekend nights (Saturday or Sunday) spent at the hotel by the guests.
+
 stays in week nights: Number of weeknights (Monday to Friday) spent at the hotel by the guests.
+
 adults: Number of adults among guests
+
 children: Number of children among guests
+
 babies: Number of bables among quests
+
 meal: Type of meal booked
+
 country: Country of guests
+
 market segment: Designation of market segment
+
 distribution_channel: Name of booking distribution channel
+
 is repeated_guest: If the booking was from a repeated guest (1) or not (0)
+
 previous cancellations: Number of previous bookings that were cancelled try the customer prior to the current booking.
+
 previous bookings_not canceled: Number of previous bookings not cancelled by the customer prior to the current booking
+
 reserved room type: Code of room type reserved
+
 assigned roon_type: Code of room type assigned
+
 booking changes: Number of changes/amendments made to the booking
+
 deposit type: Type of the deposit made by the guest
+
 agent: ID of travel agent who made the booking
+
 company: ID of the company that made the booking
+
 daya in waiting list: Number of days the booking was in the waiting list
+
 customer type: Type of customer, assuming one of four categories
+
 adr: Average Daily Rate, as defined by dividing the sum of all lodging transactions by the total number of staying nights
+
 required car parking spaces: Number of car parking spaces required try the customer
+
 total of special_requests: Number of special requests made by the customer
+
 reservation_status: Reservation status (Canceled, Check Out or No-Show)
+
 reservation_status_date: Date at which the last reservation status was updated.
